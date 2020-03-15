@@ -19,6 +19,7 @@ yarn run serve
 <toaster 
     :params="{text:'Assinado com sucesso!', type:'success'}"
 />
+
 ```
 ```
 
