@@ -1,5 +1,6 @@
 # vue-toaster-simple
 
+
 ## Project setup
 ```
 yarn install
@@ -8,6 +9,17 @@ yarn install
 ### Compiles and hot-reloads for development
 ```
 yarn run serve
+```
+
+### How to use it 
+```
+- import the JS file to your project
+- Before that follow the example 
+```
+<toaster 
+    :params="{text:'Assinado com sucesso!', type:'success'}"
+/>
+```
 ```
 
 ### Compiles and minifies for production
